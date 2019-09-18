@@ -16,6 +16,6 @@ Install requirements packages by running the following command <br>
 ## Data-Set
 Keep Bangla wiki corpus data into data forlder. 
 ## Results
-This model predicts next 100 Bangla Character after giving input "বাংলা" into the model.<br> <br>
-<img src="Images/result_wtg.png" width="600" height="100">
+This model predicts next 7 Bangla words after giving input "বাংলা আমার" into the model.<br> <br>
+<img src="Images/result_wtg.png" width="550" height="100">
 
